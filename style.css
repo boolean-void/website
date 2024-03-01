@@ -64,7 +64,7 @@ html{
     }
 
     50% {
-        transform: translateX(10%);
+        transform: translateX(5%);
         /* Adjust the horizontal movement amount */
     }
 
