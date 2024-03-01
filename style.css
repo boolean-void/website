@@ -45,7 +45,7 @@ html{
 
 #background {
     width: auto;
-    height: 100%;
+    height: auto;
     object-fit: fill;
     position: fixed;
     left: 0;
