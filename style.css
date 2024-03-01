@@ -235,3 +235,16 @@ html{
     text-align: end;
     padding-top: 10%;
 }
+/*
+.container{
+    display: flex;
+    width: 25%;
+    height:253px;
+    gap: 2px;
+   scroll-snap-type: x mandatory;
+}
+
+.container > img{
+    scroll-snap-align: start;
+}
+*/
