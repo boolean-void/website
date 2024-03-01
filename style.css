@@ -56,7 +56,7 @@ html{
     image-rendering: optimizeQuality;
     animation: slide 25s linear infinite;
     animation: zoom 25s ease-in-out infinite;
-    image-orientation: 100px;
+
 }
 @keyframes slide {
     0% {
