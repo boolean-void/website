@@ -245,4 +245,5 @@ html{
 
 .container > img{
     scroll-snap-align: start;
+        width: 420px;
 }
