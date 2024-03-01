@@ -56,7 +56,8 @@ html{
     image-rendering: optimizeQuality;
     animation: slide 25s linear infinite;
     animation: zoom 25s ease-in-out infinite;
-    
+    background-repeat: repeat-x;
+    background-repeat: repeat-y ;
 }
 @keyframes slide {
     0% {
