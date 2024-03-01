@@ -234,7 +234,7 @@ html{
     text-align: end;
     padding-top: 10%;
 }
-
+/*
 .container{
     display: flex;
     width: 25%;
@@ -246,3 +246,4 @@ html{
 .container > img{
     scroll-snap-align: start;
 }
+*/
